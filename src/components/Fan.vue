@@ -2,10 +2,11 @@
   <div id="fan">
     <div class="fan-header">
       <div :class="'leafs-' + store.state.level">
-        <div class="circle"></div>
+        <img class="flower" src="/public/img/flower.png" alt="">
+        <!-- <div class="circle"></div>
         <div class="leaf-1"></div>
         <div class="leaf-2"></div>
-        <div class="leaf-3"></div>
+        <div class="leaf-3"></div> -->
       </div>
     </div>
     <div class="fan-neck"></div>

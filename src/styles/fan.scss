@@ -95,6 +95,10 @@ $circle-position: math.div($leaf-width, 2) -
       top: $header-border-width;
       left: $header-border-width;
 
+      .flower{
+        
+      }
+
       .circle {
         box-sizing: content-box;
 
